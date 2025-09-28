@@ -19,7 +19,7 @@ function TriangleCalculator(a, b, c) {
     output = "Equilateral";
   } else if (a == b || a == c || b == c) {
     output = "Isosceles";
-    // output = "Scalene";
+    // output = "Scalene";asdasdadad
   } else {
     output = "Scalene";
   }
